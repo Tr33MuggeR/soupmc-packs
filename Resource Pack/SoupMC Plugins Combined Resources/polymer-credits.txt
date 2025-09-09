@@ -1,0 +1,29 @@
+
+  +-----------+
+  |           |
+  |   #   #   |
+  |           |
+  |   #   #   |
+  |    ###    |
+  |           |
+  |           |
+  +-----------+
+
+Generated with Polymer 0.13.9
+
+Vanilla assets by Mojang Studios
+
+Contains assets from mods: 
+ - Borukva Food (borukva-food) / License:  CC-BY-SA-4.0
+ - Borukva Food Exotic (borukva-food-exotic) / License: Apache-2.0 / Website: https://fabricmc.net/
+ - FactoryTools (factorytools) / License: LGPLv3 / Website: https://pb4.eu
+ - Fishing 101 (fishing101) / License: MIT
+ - Friends&Foes (friendsandfoes) / License: CC-BY-NC-ND-4.0 / Website: https://github.com/Faboslav/friends-and-foes
+ - Polymer Patch for Friends&Foes (friendsandfoes-polymer-patch) / License: MIT
+ - Gone Fishing (go-fish) / License: MIT
+ - PbWarps (pbwarps) / License: LGPLv3 / Website: https://pb4.eu
+ - Polymer (Textured Blocks) (polymer-blocks) / License: LGPLv3 / Website: https://pb4.eu
+ - Universal Graves (universal-graves) / License: LGPLv3 / Website: https://pb4.eu
+ - Universal Shops (universal_shops) / License: LGPLv3 / Website: https://pb4.eu
+
+See licenses folder for more information!

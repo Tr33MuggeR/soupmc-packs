@@ -1,0 +1,24 @@
+{
+    "pack": {
+      "pack_format": 48,
+      "supported_formats": {
+        "min_inclusive": 15,
+        "max_inclusive": 999
+      },
+      "description": [
+        {
+          "translate": "Resource Pack Additions",
+          "color": "#ebff66"
+        },
+        {
+          "translate": " [v1.12] ",
+          "color": "#707070"
+        },
+        {
+          "translate": "By limesplatus",
+          "color": "#898f96"
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,3 @@
+Placeholder for the Polymer Generated Pack.
+
+Remove once Polymer pack is added to repo.

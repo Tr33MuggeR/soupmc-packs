@@ -1,0 +1,1 @@
+{"variants":{"facing=west,half=bottom,open=false,powered=true,waterlogged=false":[{"model":"borukva-food:block/avocado_trapdoor_bottom","x":0,"y":0,"uvlock":false,"weight":1}],"facing=west,half=top,open=false,powered=true,waterlogged=false":[{"model":"borukva-food:block/avocado_trapdoor_top","x":0,"y":0,"uvlock":false,"weight":1}]}}
